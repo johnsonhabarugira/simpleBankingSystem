@@ -14,6 +14,6 @@ while True:
         else:
             balance -= withdraw_amount
             print(f"you have withdrawn {withdraw_amount}. your new balance is{balance}")
-    break
-else:
-    print("3000")
+            break
+    else:
+        print("dfdf")
